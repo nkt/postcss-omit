@@ -1,0 +1,26 @@
+{
+  "name": "postcss-omit",
+  "version": "1.0.0",
+  "description": "PostCSS plugin for removing specified props",
+  "keywords": [
+    "css",
+    "remove",
+    "postcss",
+    "postcss-plugin",
+    "properties"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkt/postcss-omit.git"
+  },
+  "author": "Nikita Gusakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkt/postcss-omit/issues"
+  },
+  "homepage": "https://github.com/nkt/postcss-omit#readme",
+  "dependencies": {
+    "postcss": "^5.0.21"
+  }
+}
